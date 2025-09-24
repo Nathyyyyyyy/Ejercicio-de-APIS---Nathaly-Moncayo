@@ -1,0 +1,7 @@
+<configuration>
+  <logger name="com.intuit.karate" level="WARN"/>
+  <root level="WARN">
+    <appender-ref ref="STDOUT"/>
+  </root>
+</configuration>
+

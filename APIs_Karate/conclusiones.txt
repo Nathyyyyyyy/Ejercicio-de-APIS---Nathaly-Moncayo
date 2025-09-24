@@ -1,0 +1,12 @@
+CONCLUSIONES DEL EJERCICIO
+
+- Karate DSL demostró ser una herramienta eficiente y sencilla para la automatización de pruebas REST, permitiendo una rápida implementación y validación de escenarios.
+- La API de Demoblaze requiere encabezados específicos (Content-Type y Origin) para aceptar las peticiones, lo cual es importante para la autenticidad de las pruebas.
+- El uso de usuarios aleatorios garantiza la reproducibilidad y evita conflictos por duplicidad en los registros.
+- Los reportes generados por Karate son claros, visuales y permiten auditar fácilmente los resultados de cada escenario.
+- Se recomienda, para proyectos reales, agregar validaciones más estrictas sobre las respuestas y considerar la limpieza de datos de prueba si se ejecutan muchas veces los tests.
+- La estructura modular del proyecto facilita su mantenimiento y escalabilidad para futuras pruebas o integraciones.
+
+---
+
+> Ejercicio realizado como parte de una evaluación técnica de automatización de pruebas REST.
