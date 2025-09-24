@@ -35,8 +35,9 @@ APIs_Karate/
    - Git (opcional)
 
 2. **Clona el repositorio o descarga el proyecto.**
+git clone https://github.com/Nathyyyyyyy/Ejercicio-de-APIS---Nathaly-Moncayo.git
 
-3. **Ejecuta las pruebas:**
+4. **Ejecuta las pruebas:**
    ```
    mvn test
    ```
